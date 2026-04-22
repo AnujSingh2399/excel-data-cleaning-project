@@ -4,6 +4,13 @@
 
 Sales data cleaning and analysis using Excel (VLOOKUP, INDEX-MATCH, XLOOKUP)
 
+## 📊 Dashboard Preview
+![Dashboard](screenshots/dashboard.jpeg)
+
+## 🧹 Cleaning Steps
+![Cleaning Step 1](screenshots/cleaning_steps_1.jpeg)
+![Cleaning Step 2](screenshots/cleaning_steps_2.jpeg)
+
 # 📊 Excel Data Cleaning & Analysis Project
 
 ## 📌 Project Overview
