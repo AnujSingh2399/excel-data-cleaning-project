@@ -1,4 +1,6 @@
 # excel-data-cleaning-project
+git count-objects -vH
+![GitHub repo size](https://img.shields.io/github/repo-size/AnujSingh2399/sales-dashboard-analysis)
 Sales data cleaning and analysis using Excel (VLOOKUP, INDEX-MATCH, XLOOKUP)
 ![Dashboard](dashboard.png.jpeg)
 ![Dashboard](cleaning_steps_1.png.jpeg)
