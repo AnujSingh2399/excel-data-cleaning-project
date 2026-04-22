@@ -1,4 +1,4 @@
-# excel-data-cleaning-project
+# 📊 Excel Sales Data Cleaning & Analysis Project
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AnujSingh2399/excel-data-cleaning-project)
 
