@@ -1,6 +1,7 @@
 # excel-data-cleaning-project
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AnujSingh2399/excel-data-cleaning-project)
+
 Sales data cleaning and analysis using Excel (VLOOKUP, INDEX-MATCH, XLOOKUP)
 
 # 📊 Excel Data Cleaning & Analysis Project
